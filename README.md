@@ -20,7 +20,7 @@
 
 </div>
 
-## Security Hardening Features
+## Security Features Features
 
 ### Kotlin Null Safety
 - `?` operator for nullable types
