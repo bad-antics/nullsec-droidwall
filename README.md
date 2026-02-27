@@ -141,7 +141,7 @@ NullSec Proprietary - Part of the NullSec Security Framework
 **bad-antics**
 - GitHub: [@bad-antics](https://github.com/bad-antics)
 - Website: [bad-antics.github.io](https://bad-antics.github.io)
-- Discord: [discord.gg/killers](https://discord.gg/killers)
+- Twitter: [x.com/AnonAntics](https://x.com/AnonAntics)
 
 ---
 
